@@ -1,0 +1,19 @@
+.chart{
+  width:400px;
+  border-right: 1px solid black;
+  margin-top:50px;
+  margin-left:120px;
+}
+.chart1{
+  width:450px;
+  border-right: 1px solid black;
+  margin-top:50px;
+  margin-left:200px
+}
+
+.bpx{
+    width: 330px;
+}
+/* #chart{
+  height:400px
+} */
